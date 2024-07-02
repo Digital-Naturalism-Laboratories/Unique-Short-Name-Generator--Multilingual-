@@ -7,6 +7,14 @@ For instance, what's easier to deal with in a team:
 You can also control the max length of your Labels or number of compound words the string is made from depending on how much complexity vs. compactness you need. You can also select words in English, Spanish, or for extra complexity in a multi-lingual team, Spanglish mixtures.
  
 ![PXL_20240701_194930078](https://github.com/Digital-Naturalism-Laboratories/Unique-Short-Name-Generator--Multilingual-/assets/742627/dde7de9e-ed08-4e1b-ad1e-4b3c676a3f81)
+# Motivation
+There are several other better libraries for generating unique names and labels out there, but many are for things like
+* Generating human-like names like "Andy Quatmeyer"
+* Generating Pass-phrases that are pretty long like "blue-dog-sitting-walrus-chomping-slurp-goldfish-zebra"
+* only in one language
+* way too small of wordlists (only top 100 words)
+* words not separated into parts of speech (just random words)
+* not enough cool animal words
 
 # Usage
 ## Filter the database
