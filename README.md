@@ -35,11 +35,17 @@ We are planning on making like 100 projects deployed on a raspberry pi, and want
 ## Sources
 I compiled my wordlists from these sources, cleaned them up, got rid of weird formatting, and sorted them into categories
 
-Ajectives # https://github.com/bryanmylee/zoo-ids/blob/master/src/adjectives.ts
-colors #from https://github.com/andreasonny83/unique-names-generator/blob/main/src/dictionaries/animals.ts
+Ajectives https://github.com/bryanmylee/zoo-ids/blob/master/src/adjectives.ts
+
+colors  https://github.com/andreasonny83/unique-names-generator/blob/main/src/dictionaries/animals.ts
+
 Animales https://github.com/Contraculto/corpora_es/blob/master/data%2Fanimales%2Fanimales.json
+
 Animales 2 https://es.m.wikipedia.org/wiki/Wikiproyecto:Animales/Lista
+
 Ajectivos https://es.m.wiktionary.org/wiki/Ap%C3%A9ndice:1000_palabras_b%C3%A1sicas_en_espa%C3%B1ol
+
 Animales3 https://es.m.wikibooks.org/wiki/Ingl%C3%A9s/Vocabulario/Animales
+
 Verbs https://7esl.com/english-verbs/
 
