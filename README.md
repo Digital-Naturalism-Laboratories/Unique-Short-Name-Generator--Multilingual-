@@ -10,7 +10,7 @@ You can also control the max length of your Labels or number of compound words t
 
 # Usage
 ## Filter the database
-The *main thing of value here* is that there is an excel document with a list of common english and spanish nouns, verbs, adjectives, and animals with a built in filter letting you choose the max word length for making your compound label.
+The **main thing of value here** is that there is a spreadsheet with a list of common english and spanish nouns, verbs, adjectives, and animals. It has a built in filter letting you choose the max word length for making your compound label.
 
  ![image](https://github.com/Digital-Naturalism-Laboratories/Unique-Short-Name-Generator--Multilingual-/assets/742627/6d31f025-b67a-4b75-b345-bd860e6ef759)
 
@@ -24,10 +24,10 @@ We are planning on making like 100 projects deployed on a raspberry pi, and want
 |Total Unique words | 184,680  | 250,400  | 1,154,444  | 435,080      | 24,591,168       | 14,664,000       | 3.11E+08 | 39,255,168 |
 
 
-![image](https://github.com/Digital-Naturalism-Laboratories/Unique-Short-Name-Generator--Multilingual-/assets/742627/6811b662-3da2-4dc1-b302-a28690a7cbf7)
+Someone can totally make a fully programmatic way to choose your combos instead of this janky excel sheet, and we can update this git repo with that! 
 
 ## Do Some coding
-
+I didn't really provide a full example, but the original mothbox script i have it in is included, and I also made a stripped down version of that python file that has just the key functions that handle a csv and generate a consistent unique name.
 
 
 
